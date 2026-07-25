@@ -38,4 +38,5 @@ The .pbix file of all the dashboards shown in this portfolio combined into one r
 <br><br><br>
 *Yearly production table showing multiple years of premium*
 <br><br>
-<img width="665" height="419" alt="Yearly-Production-Table" src="https://github.com/user-attachments/assets/8e60ef33-5331-4f53-83e7-52624b11a507" />
+<img width="666" height="430" alt="Yearly-Production-Table" src="https://github.com/user-attachments/assets/ae5ae5f5-6c16-4ef0-b84b-da88de468e85" />
+
